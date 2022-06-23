@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30359" started-at="2022-06-23T18:50:24 IST" finished-at="2022-06-23T18:50:54 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30359" started-at="2022-06-23T18:50:24 IST" finished-at="2022-06-23T18:50:54 IST">
+      <class name="com.trello.qa.testcases.BoardWindowPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.trello.qa.testcases.BoardWindowPageTest@1a8a8f7c]" name="setUp" is-config="true" duration-ms="20078" started-at="2022-06-23T18:50:24 IST" finished-at="2022-06-23T18:50:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createBoardTest()[pri:-1, instance:com.trello.qa.testcases.BoardWindowPageTest@1a8a8f7c]" name="createBoardTest" duration-ms="3867" started-at="2022-06-23T18:50:44 IST" finished-at="2022-06-23T18:50:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBoardTest -->
+        <test-method status="PASS" signature="addCardTest()[pri:0, instance:com.trello.qa.testcases.BoardWindowPageTest@1a8a8f7c]" name="addCardTest" duration-ms="1493" started-at="2022-06-23T18:50:48 IST" finished-at="2022-06-23T18:50:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCardTest -->
+        <test-method status="PASS" signature="archiveListTest()[pri:0, instance:com.trello.qa.testcases.BoardWindowPageTest@1a8a8f7c]" name="archiveListTest" duration-ms="901" started-at="2022-06-23T18:50:50 IST" finished-at="2022-06-23T18:50:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- archiveListTest -->
+        <test-method status="PASS" signature="createListTest()[pri:0, instance:com.trello.qa.testcases.BoardWindowPageTest@1a8a8f7c]" name="createListTest" duration-ms="1036" started-at="2022-06-23T18:50:51 IST" finished-at="2022-06-23T18:50:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createListTest -->
+        <test-method status="PASS" signature="moveCardTest()[pri:0, instance:com.trello.qa.testcases.BoardWindowPageTest@1a8a8f7c]" name="moveCardTest" duration-ms="2657" started-at="2022-06-23T18:50:52 IST" finished-at="2022-06-23T18:50:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveCardTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.trello.qa.testcases.BoardWindowPageTest@1a8a8f7c]" name="tearDown" is-config="true" duration-ms="291" started-at="2022-06-23T18:50:54 IST" finished-at="2022-06-23T18:50:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.trello.qa.testcases.BoardWindowPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
